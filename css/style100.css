@@ -266,8 +266,7 @@ a{color:#333;}
 .side .public_h3 img{position:absolute;top:12px;right:0px;}
 .side .coupons ul{margin:0 auto;padding:0 17px;}
 .side .coupons ul li{float:left;width:66px;height:23px;line-height:23px;border:1px solid #e5e5e5;border-bottom:none;border-radius:4px 4px 0 0;text-align:center;position:relative;top:1px;cursor:pointer;}
-.side .coupons ul li a{color:#666;}
-.side .coupons .active{color:#fff;font-weight:bold;background:#fff;z-index:2;}
+.side .coupons li.active{color:#333;font-weight:bold;background:#fff;z-index:2;}
 .side .coupons ul li span{position:absolute;top:10px;right:10px;}
 ol.public_ol{width:218px;margin:0 auto;position:relative;}
 ol.public_ol li{height:28px;line-height:28px;border-top:1px dotted #e5e5e5;}
